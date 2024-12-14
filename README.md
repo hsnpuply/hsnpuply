@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Projects**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vuetify**
 
 - 👯 I’m looking to collaborate on **Projects**
 
