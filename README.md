@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on bonyade Al-hadi
 
-- 🌱 I’m currently improving at **Vue 3**
+- 🌱 I’m currently Learning at **Ui/UX Fundamentals**
 
 - 📫 How to reach me **hsnpuply@gmail.com** 
 
