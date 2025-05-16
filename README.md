@@ -32,10 +32,10 @@
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="44" alt="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css.svg" height="44" alt="CSS3">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="44" alt="Vue.js">
-  <img src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-light.svg" height="44" alt="Vuetify">
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="44" alt="CSS3">
+  <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" height="44" alt="JavaScript">
+  <img src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" height="44" alt="Vue.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" alt="Vuetify Logo" width="44" />
   <img src="https://raw.githubusercontent.com/logaretm/vee-validate/main/.github/logo.png" height="44" alt="VeeValidate">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="Git">
   <img src="https://cdn-icons-png.flaticon.com/512/3638/3638915.png" height="44" alt="Cursor AI">
