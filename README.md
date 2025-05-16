@@ -30,7 +30,7 @@
   <img src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" height="44" alt="Vue.js" title="Vue 3">
   <img src="https://pinia.vuejs.org/logo.svg" height="40" alt="Pinia" title="Pinia"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" title="Vuetify" alt="Vuetify Logo" width="40" />
-  <img src="https://icons8.com/icon/x7XMNGh2vdqA/tailwind-css" title="Tailwind CSS" alt="Tailwind CSS" width="40" />
+  <img src="https://v3.tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="44" alt="SCSS" title="SCSS">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="Git" title="GIT">
 </div>
@@ -38,7 +38,7 @@
 <h3 align="left">Tools</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
 <img src="https://img.icons8.com/?size=100&id=Kwms9QBiZhG2&format=png&color=000000" height="44" alt="Cursor Ai" title="Cursor Ai">
-<img src="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019" height="44" alt="VS CODE" title="VS Code">
+<img src="https://code.visualstudio.com/assets/images/code-stable.png" height="44" alt="VS CODE" title="VS Code">
   <img src="https://gitlens.amod.io/assets/gitlens-logo.png" height="44" alt="Gitlens" title="Gitlens">
 </div>
 
