@@ -1,9 +1,6 @@
+<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 <h1 align="center" style="margin-bottom:2px"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&width=435&lines=Hi%2C+Welcome+to+My+Github+%F0%9F%91%8B" alt="Typing SVG" /></a> </h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=hsnpuply&label=Profile%20views&color=0e75b6&style=flat)
-
-
-**<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/linkedin.com/in/hasan-barati-684433366" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28""></a></p>
 
  **<h3 align="left"><p>Software Engineer by degree, <strong>Frontend Developer</strong> by passion ❤️</strong>, with nearly a year of professional experience shaping ideas into reality. 💡🚀</p><br>
