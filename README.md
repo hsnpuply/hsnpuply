@@ -20,7 +20,7 @@
 
 <br />
 
-<p style="font-size:16px;display:flex;flex-direction:column" align="center">
+<p style="font-size:20px;display:flex;flex-direction:column" align="left">
 - 💼 I'm currently working on: <b>💻 Developing digital platforms at Bonyade Al-Hadi.</b><br />
 - 🌱 I'm currently learning: <b>🎨 Exploring Ui/UX world</b><br />
 - ⚡ Fun fact: <b>💻😅 I was debugging like a pro when suddenly… my PC decided to throw a blue screen party! Guess it needed some attention too.</b>
