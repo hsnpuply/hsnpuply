@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-<h2 align="center">
+<h2 align="center" style="margin-bottom:5px;">
   <b>Software Engineer</b> by degree, <strong>Frontend Developer</strong> by passion ❤️
 </h2>
 
