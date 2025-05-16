@@ -8,23 +8,21 @@
   </a>
 </h1>
 
-<h2 align="center">
+<h1 align="center">
   <b>Software Engineer</b> by degree, <strong>Frontend Developer</strong> by passion ❤️
+</h1>
+
+<h2 align="center">
+  Coding for me is more than <b>syntax</b> — it’s about transforming sparks 🌟 of ideas into real 🔥 <b>impactful experiences</b>
 </h2>
 
 <br />
 
-<h3 align="center">
-  Coding for me is more than <b>syntax</b> — it’s about transforming sparks 🌟 of ideas into real 🔥 <b>impactful experiences</b>
-</h3>
-
-<br />
-
-<p style="font-size:30px;display:flex;flex-direction:column;gap:8px;" align="left">
+<h3 style="font-size:30px;display:flex;flex-direction:column;gap:8px;" align="left">
 - 💼 I'm currently working on: 💻 Developing digital platforms at <b>Bonyade Al-Hadi.</b><br />
 - 🌱 I'm currently learning: 🎨 Exploring<b> Ui/UX </b>world<br />
 - ⚡ Fun fact: 💻😅 I was debugging like a pro when suddenly… my PC decided to throw a blue screen party!<br> Guess it needed some attention too.
-</p>
+</h3>
 
 ---
 
