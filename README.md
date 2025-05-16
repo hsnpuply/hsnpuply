@@ -31,7 +31,7 @@
 <h3 align="left">Skills</h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html/html.svg" height="44" alt="HTML5">
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="44" alt="HTML5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css.svg" height="44" alt="CSS3">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="44" alt="Vue.js">
