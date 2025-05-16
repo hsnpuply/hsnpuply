@@ -20,10 +20,10 @@
 
 <br />
 
-<p style="font-size:20px;display:flex;flex-direction:column" align="left">
-- 💼 I'm currently working on: <b>💻 Developing digital platforms at Bonyade Al-Hadi.</b><br />
-- 🌱 I'm currently learning: <b>🎨 Exploring Ui/UX world</b><br />
-- ⚡ Fun fact: <b>💻😅 I was debugging like a pro when suddenly… my PC decided to throw a blue screen party! Guess it needed some attention too.</b>
+<p style="font-size:20px;display:flex;flex-direction:column;gap:8px;" align="left">
+- 💼 I'm currently working on: 💻 Developing digital platforms at <b>Bonyade Al-Hadi.</b><br />
+- 🌱 I'm currently learning: 🎨 Exploring<b> Ui/UX </b>world<br />
+- ⚡ Fun fact: 💻😅 I was debugging like a pro when suddenly… my PC decided to throw a blue screen party!<br> Guess it needed some attention too.
 </p>
 
 ---
@@ -45,10 +45,11 @@
 
 <h3 align="left">GitHub Stats</h3>
 
-<p align="left">
+<div align="left" style="display:flex;flex-direction:column;gap:6px;>
   <img width="48%" src="https://streak-stats.demolab.com/?user=hsnpuply&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsnpuply&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</div>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsnpuply&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+
 </p>
