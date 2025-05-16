@@ -24,21 +24,21 @@
 <h3 align="left">Skills</h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="44" alt="HTML5">
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="44" alt="CSS3">
-  <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" height="44" alt="JavaScript">
-  <img src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" height="44" alt="Vue.js">
-  <img src="https://pinia.vuejs.org/logo.svg" height="40" alt="Pinia" />
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="44" alt="HTML5" title="HTML5">
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="44" alt="CSS3" title="CSS3" >
+  <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" height="44" alt="JavaScript" title="JavaScript ES6+">
+  <img src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" height="44" alt="Vue.js" title="Vue 3">
+  <img src="https://pinia.vuejs.org/logo.svg" height="40" alt="Pinia" title="Pinia"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" title="Vuetify" alt="Vuetify Logo" width="40" />
-  <img src="https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css" title="Vuetify" alt="Tailwind CSS" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="Git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="44" alt="SCSS">
+  <img src="https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css" title="Tailwind CSS" alt="Tailwind CSS" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="44" alt="SCSS" title="SCSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="Git" title="GIT">
 </div>
 
 <h3 align="left">Tools</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
 <img src="https://img.icons8.com/?size=100&id=Kwms9QBiZhG2&format=png&color=000000" height="44" alt="Cursor Ai" title="Cursor Ai">
-<img src="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019" height="44" alt="VS CODE" title="VS Code">
+<img src="https://icons8.com/icon/0OQR1FYCuA9f/visual-studio-code-2019" height="44" alt="VS CODE" title="VS Code">
   <img src="https://gitlens.amod.io/assets/gitlens-logo.png" height="44" alt="Gitlens" title="Gitlens">
 </div>
 
