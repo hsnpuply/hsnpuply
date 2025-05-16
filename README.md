@@ -15,13 +15,10 @@
 <h3 align="center">
   Coding for me is more than <b>syntax</b> — it’s about transforming sparks 🌟 of ideas into real 🔥 <b>impactful experiences</b>
 </h3>
-
-<br />
-
 <h4 style="font-size:30px;display:flex;flex-direction:column;gap:14px;" align="left">
 - 💼 working on: 💻<b>Bonyade Al-Hadi.</b><br />
 - 🌱 I'm learning: 🎨 <b> Ui/UX </b><br />
----
+
 
 <h3 align="left">Skills</h3>
 
