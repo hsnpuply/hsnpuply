@@ -23,7 +23,7 @@
 
 <h3 align="left">Skills</h3>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="44" alt="HTML5" title="HTML5">
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="44" alt="CSS3" title="CSS3" >
   <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" height="44" alt="JavaScript" title="JavaScript ES6+">
@@ -36,7 +36,7 @@
 </div>
 
 <h3 align="left">Tools</h3>
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
 <img src="https://img.icons8.com/?size=100&id=Kwms9QBiZhG2&format=png&color=000000" height="44" alt="Cursor Ai" title="Cursor Ai">
 <img src="https://code.visualstudio.com/assets/images/code-stable.png" height="44" alt="VS CODE" title="VS Code">
   <img src="https://gitlens.amod.io/assets/gitlens-logo.png" height="44" alt="Gitlens" title="Gitlens">
