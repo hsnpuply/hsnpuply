@@ -46,10 +46,10 @@
 <h3 align="left">GitHub Stats</h3>
 
 <div style="display:flex;flex-direction:column;gap:6px;>
-  <img width="48%" src="https://streak-stats.demolab.com/?user=hsnpuply&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" /><br>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsnpuply&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </div>
 
 <p align="left">
+      <img width="48%" src="https://streak-stats.demolab.com/?user=hsnpuply&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 
 </p>
