@@ -36,13 +36,10 @@
   <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" height="44" alt="JavaScript">
   <img src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" height="44" alt="Vue.js">
   <img src="https://pinia.vuejs.org/logo.svg" height="40" alt="Pinia" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Vue-router.svg" height="40" alt="Vue Router" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" title="Vuetify" alt="Vuetify Logo" width="40" />
+  <img src="https://icons8.com/icon/x7XMNGh2vdqA/tailwind-css" title="Vuetify" alt="Tailwind CSS" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="Git">
-  <img src="https://cdn-icons-png.flaticon.com/512/3638/3638915.png" height="44" alt="Cursor AI">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="44" alt="SCSS">
-  <img src="https://raw.githubusercontent.com/vuejs/vuex/dev/logo.png" height="44" alt="Pinia">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="44" alt="Vue Router">
 </div>
 
 ---
